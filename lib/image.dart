@@ -1,6 +1,6 @@
 /// The image library aims to provide server-side programs the ability to load,
 /// manipulate, and save various image file formats.
-library image;
+library image_v3;
 
 export 'src/animation.dart';
 export 'src/bitmap_font.dart';

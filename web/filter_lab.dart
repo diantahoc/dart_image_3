@@ -1,6 +1,6 @@
 import 'dart:html';
 
-import 'package:image/image.dart';
+import 'package:image_v3/image.dart';
 
 late ImageData filterImageData;
 late CanvasElement canvas;

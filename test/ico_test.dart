@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:image/image.dart';
-import 'package:image/src/formats/ico_encoder.dart';
+import 'package:image_v3/image.dart';
+import 'package:image_v3/src/formats/ico_encoder.dart';
 import 'package:test/test.dart';
 
 import 'paths.dart';

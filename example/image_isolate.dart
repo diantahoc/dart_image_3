@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'dart:isolate';
-import 'package:image/image.dart';
+import 'package:image_v3/image.dart';
 
 class DecodeParam {
   final File file;

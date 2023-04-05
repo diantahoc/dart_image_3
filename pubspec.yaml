@@ -1,10 +1,10 @@
-name: image
+name: image_v3
 version: 3.3.0
 description: >-
   Provides server and web apps the ability to load, manipulate, and save images
   with various image file formats including PNG, JPEG, GIF, BMP, WebP, TIFF,
   TGA, PSD, PVR, and OpenEXR.
-homepage: https://github.com/brendan-duncan/image
+homepage: https://github.com/diantahoc/dart_image_3
 documentation: https://github.com/brendan-duncan/image/wiki
 
 environment:

@@ -1,6 +1,6 @@
 import 'dart:html';
 import 'dart:math';
-import 'package:image/image.dart';
+import 'package:image_v3/image.dart';
 
 double logN(num x, num div) => log(x) / div;
 

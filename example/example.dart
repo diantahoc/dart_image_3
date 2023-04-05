@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:image/image.dart';
+import 'package:image_v3/image.dart';
 
 void main() {
   // Read an image from file (webp in this case).
